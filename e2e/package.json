@@ -1,0 +1,28 @@
+{
+  "name": "cypress-demo",
+  "version": "1.0.0",
+  "description": "Demo project using Cypress",
+  "main": "index.js",
+  "scripts": {
+    "open": "cypress open",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/aurelius0523/cypress-demo.git"
+  },
+  "keywords": [
+    "cypress",
+    "testing",
+    "e2e"
+  ],
+  "author": "aurelius0523/kim.loong.tan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/aurelius0523/cypress-demo/issues"
+  },
+  "homepage": "https://github.com/aurelius0523/cypress-demo#readme",
+  "dependencies": {
+    "cypress": "^3.8.0"
+  }
+}
